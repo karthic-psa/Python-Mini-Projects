@@ -1,0 +1,1 @@
+Open the file required in any python editor (IDLE) and run the code.
